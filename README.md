@@ -102,6 +102,7 @@ The server will run at http://localhost:3000.
 ## Folder Structure
 
 ```bash
+- node_modules/
 - src/
   - exceptions/
     - ClientError.js       # Base class for custom client errors
@@ -116,6 +117,7 @@ The server will run at http://localhost:3000.
     - storeData.js         # Firestore storage logic
 - .gitignore               # Ignored files
 - .env                     # Environment variables (e.g., MODEL_URL)
+- package-lock.json
 - package.json             # Project dependencies and metadata
 - README.md                # Project documentation
 ```
