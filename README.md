@@ -117,8 +117,8 @@ The server will run at http://localhost:3000.
     - storeData.js         # Firestore storage logic
 - .gitignore               # Ignored files
 - .env                     # Environment variables (e.g., MODEL_URL)
-- package-lock.json
 - package.json             # Project dependencies and metadata
+- package-lock.json        # Lock file for npm dependencies
 - README.md                # Project documentation
 ```
 
